@@ -35,7 +35,7 @@ INSTRUCTIONS-
 	There is also one dashboard which displays the stored URLs along with their icons corresponding to the slug value passed in the URL.
 	If a user is logged in, then he/she has the option to add new links from his/her dashboard page.
 	
-	https://rr5---sn-cvh7knzl.c.drive.google.com/videoplayback?expire=1633712630&ei=tkFgYfSOJZOUmvUPhLaI6AY&ip=61.2.59.15&cp=QVRIVUhfUVZRQVhPOnptVzlpeDdlVUJuWWNMRkhrRThFU3BtdWFiQWNJYlVZalJBSjhWbVRiZmg&id=7b630361c2799522&itag=22&source=webdrive&requiressl=yes&mh=GU&mm=32&mn=sn-cvh7knzl&ms=su&mv=m&mvi=5&pl=21&ttl=transient&susc=dr&driveid=1glO9RgjN7awyOxM6jf8pSLfprMu9qVqI&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=65.805&lmt=1633697991401351&mt=1633698034&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgbZSBEZgt5ModX-JZyHjmr5C35UgSwKdCEDib03qzku8CIA55IYUjLqfHBC-1yE58wrHnJ5O3rTa3cQT0cVhxfYaC&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgYHYnGcMNn3_5_OPu-k3yqA-5P-CCibU3abjl1ztCr-UCIQDSnlt-W2Dg5tP0anRbtw5q63ZjuFTLXxhGIN5gve1zRg==&cpn=9yiMHQ20xMTS8Y-Y&c=WEB_EMBEDDED_PLAYER&cver=1.20211005.1.0
+	https://drive.google.com/file/d/1glO9RgjN7awyOxM6jf8pSLfprMu9qVqI/view?usp=sharing
 
 COLLABORATORS:-
 	DIVY PRAJAPATI  - BACKEND  (server)
