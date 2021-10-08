@@ -1,0 +1,14 @@
+.form-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0% !important;
+}
+
+.form-container{
+    padding: 5%;
+    margin: 10%;
+    height: 50%;
+    border-radius: 5% !important;
+    color: white;
+}

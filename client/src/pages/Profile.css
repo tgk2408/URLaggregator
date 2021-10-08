@@ -1,0 +1,41 @@
+.pic-container{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 25%;
+    overflow: hidden;
+    border-radius: 50%;
+    transition: 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pic{
+    position: absolute;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
+.pic-container:hover{
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+
+.pic-update{
+    cursor: pointer;
+    color: white;
+    z-index: 10;
+    position: absolute;    
+    transition: 0.5s;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
